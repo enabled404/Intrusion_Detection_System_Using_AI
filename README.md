@@ -1,6 +1,6 @@
 # Intrusion Detection System Implementing AI and LLMS
 
-This is a Python-based real-time Intrusion Detection System (IDS) designed for network monitoring and real time threat detection. The system captures and analyzes network packets and detects potential intrusions using a graphical user interface (GUI) built with Tkinter. It also integrates with several APIs for enhanced threat intelligence.
+This is a Python-based real-time Intrusion Detection System (IDS) designed for network monitoring and real time threat detection. The system captures and analyzes network packets and detects potential intrusions using a graphical user interface (GUI) built with Tkinter. Utilized Scapy for packet capture and deep packet inspection (DPI) to analyze packet contents. Integrated a fine-tuned version of the Gemini 1.5 Pro API, providing unprecedented depth analysis and insights, a unique implementation globally. Incorporated threat intelligence from AbuseIPDB, IP geolocation from RapidAPI, and dynamic visualizations with Matplotlib. Features include real-time traffic monitoring, threat alerts, and email notifications for critical threats. This project stands out for its advanced integration of multiple detection techniques and its novel use of the LLM API.
 
 ## Features
 
