@@ -1,4 +1,4 @@
-# Intrusion Detection System
+# Intrusion Detection System Implementing AI and LLMS
 
 This is a Python-based real-time Intrusion Detection System (IDS) designed for network monitoring and real time threat detection. The system captures and analyzes network packets and detects potential intrusions using a graphical user interface (GUI) built with Tkinter. It also integrates with several APIs for enhanced threat intelligence.
 
@@ -8,7 +8,7 @@ This is a Python-based real-time Intrusion Detection System (IDS) designed for n
 - **Real-Time Alerts**: Provides real-time notifications for potential intrusions.
 - **API Integrations**:
   - **AbuseIPDB**: Checks suspicious IP addresses against the AbuseIPDB database.
-  - **Gemini 1.5 Pro**: Integrates with the Gemini 1.5 Pro API for advanced threat detection.
+  - **Gemini 1.5 Pro**: Integrates with the Gemini 1.5 Pro API for advanced threat detection and analysis.
   - **GeoIP**: Determines the geographical location of IP addresses using the GeoIP service.
 
 ## How to Run
@@ -64,3 +64,4 @@ Make sure you have the following installed:
   requests
   tk
   geoip2
+# Screenshots of its Working Interface
