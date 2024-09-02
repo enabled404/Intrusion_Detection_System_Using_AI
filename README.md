@@ -6,6 +6,13 @@ This is a Python-based real-time Intrusion Detection System (IDS) designed for n
 
 - **Packet Sniffing and Analysis**: Monitors and analyzes network traffic.
 - **Real-Time Alerts**: Provides real-time notifications for potential intrusions.
+- **Deep Packet Inspection (DPI): Thoroughly examines packet contents to detect anomalies and threats.
+- **Fine-Tuned Gemini 1.5 Pro API: Implements a unique, globally novel version for in-depth threat analysis.
+- **Threat Intelligence Integration: Utilizes AbuseIPDB for IP reputation checks and RapidAPI for IP geolocation.
+- **Dynamic Visualization: Displays real-time traffic data and detected threats using Matplotlib.
+- **Customizable Alerts and Notifications: Sends email notifications for critical threats detected by the system.
+- **User-Friendly Interface: Features a Tkinter-based GUI for easy interaction and monitoring.
+- **Protocol and Type Detection: Accurately identifies and categorizes network protocols and packet types.
 - **API Integrations**:
   - **AbuseIPDB**: Checks suspicious IP addresses against the AbuseIPDB database.
   - **Gemini 1.5 Pro**: Integrates with the Gemini 1.5 Pro API for advanced threat detection and analysis.
