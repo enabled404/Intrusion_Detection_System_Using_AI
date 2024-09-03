@@ -16,8 +16,6 @@ This software and associated documentation files (the "Software") are copyrighte
 
 6. **No Warranty**: The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, or non-infringement.
 
-7. **Governing Law**: This license shall be governed by and construed in accordance with the laws of [Your Jurisdiction].
-
 For any inquiries or permissions related to the Software, please contact [@saadkhalid2000@outlook.com].
 
 ---
