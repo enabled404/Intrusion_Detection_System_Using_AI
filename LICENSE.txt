@@ -2,7 +2,7 @@ Copyright 2024 [Saad Khalid]
 
 All Rights Reserved
 
-This software and associated documentation files (the "Software") are copyrighted and licensed under the terms of this license. By using the Software, you agree to the following terms:
+This software and associated documentation files (Intrusion Detection System Implementing AI and LLMS) are copyrighted and licensed under the terms of this license. By using the Software, you agree to the following terms:
 
 1. **No Modification**: You may not alter, modify, or create derivative works based on the Software.
 
