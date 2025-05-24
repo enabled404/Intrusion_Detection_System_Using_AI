@@ -1,13 +1,13 @@
 # Intrusion Detection System Implementing AI and LLMS
 
-This is a Python-based real-time Intrusion Detection System (IDS) designed for network monitoring and real time threat detection. The system captures and analyzes network packets and detects potential intrusions using a graphical user interface (GUI) built with Tkinter. Utilized Scapy for packet capture and deep packet inspection (DPI) to analyze packet contents. Integrated a fine-tuned version of the Gemini 1.5 Pro API, providing unprecedented depth analysis and insights, a unique implementation globally. Incorporated threat intelligence from AbuseIPDB, IP geolocation from RapidAPI, and dynamic visualizations with Matplotlib. Features include real-time traffic monitoring, threat alerts, and email notifications for critical threats. This project stands out for its advanced integration of multiple detection techniques and its novel use of the LLM API.
+This is a Python-based real-time Intrusion Detection System (IDS) designed for network monitoring and real time threat detection. The system captures and analyzes network packets and detects potential intrusions using a graphical user interface (GUI) built with Tkinter. Utilized Scapy for packet capture and deep packet inspection (DPI) to analyze packet contents. Integrated a fine-tuned version of the Gemini 2.5 Pro API, providing unprecedented depth analysis and insights, a unique implementation globally. Incorporated threat intelligence from AbuseIPDB, IP geolocation from RapidAPI, and dynamic visualizations with Matplotlib. Features include real-time traffic monitoring, threat alerts, and email notifications for critical threats. This project stands out for its advanced integration of multiple detection techniques and its novel use of the LLM API.
 
 ## Features
 
 - **Packet Sniffing and Analysis**: Monitors and analyzes network traffic.
 - **Real-Time Alerts**: Provides real-time notifications for potential intrusions.
 - **Deep Packet Inspection (DPI)**: Thoroughly examines packet contents to detect anomalies and threats.
-- **Fine-Tuned Gemini 1.5 Pro API**: Implements a unique, globally novel version for in-depth threat analysis.
+- **Fine-Tuned Gemini 2.5 Pro API**: Implements a unique, globally novel version for in-depth threat analysis.
 - **Threat Intelligence Integration**: Utilizes AbuseIPDB for IP reputation checks and RapidAPI for IP geolocation.
 - **Dynamic Visualization**: Displays real-time traffic data and detected threats using Matplotlib.
 - **Customizable Alerts and Notifications**: Sends email notifications for critical threats detected by the system.
@@ -45,7 +45,7 @@ This is a Python-based real-time Intrusion Detection System (IDS) designed for n
 
 5. **Set up the following API keys**:
     - **AbuseIPDB**: [Sign up](https://www.abuseipdb.com/register) to get an API key.
-    - **Gemini 1.5 Pro**: Obtain the API key from the service provider.
+    - **Gemini 2.5 Pro**: Obtain the API key from the service provider.
     - **GeoIP**: If using MaxMind, [sign up](https://www.maxmind.com/en/geoip2-services-and-databases) to get an API key and database.
 
 6. **Add your API keys to your environment**:
