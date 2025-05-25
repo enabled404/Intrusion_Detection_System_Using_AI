@@ -13,7 +13,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Configuration
-GEMINI_API_KEY = "" #add your gemini api key (fine tuned version)
+GEMINI_API_KEY = "" #add your gemini api key here (fine tuned version)
 ABUSEIPDB_API_KEY = '' #add your ABUSEIPDB api key here
 RAPIDAPI_KEY = ""     #add your RAPIDAPI KEY for geolocation
 RAPIDAPI_HOST = ""    #add your RAPIDAPI HOST here
